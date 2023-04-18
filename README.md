@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arishmit Ghosh</h1>
-<h3 align="center">Web3 developer building on Polygon and NEAR. Exploring Filecoin Virtual Machine</h3>
+<h3 align="center">Web3 developer building on Polygon. Exploring Smart Contract Wallets, Account Abstraction and ERC4337 ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari4325&label=Profile%20views&color=0e75b6&style=flat" alt="ari4325" /> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Postgres and Redis**
 
 - 👯 I’m looking to collaborate on **dApps**
 
